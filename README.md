@@ -9,6 +9,8 @@ This E-Commerce app was built in order to make a UI App for portfolio. Design ca
  *Redux<br/>
  *Typescript<br/>
  *Figma<br/>
+ <a href="https://gitlab.com/Cociurca/commercetype" target="_blank"><img src="https://img.shields.io/badge/download-repo-FCA121.svg?style=for-the-badge&logo=gitlab&logoColor=white" ></a>
+ 
  
 <p align="center">
 <img src="e-commerce/Simulator Screen Shot - iPhone 11 - 2019-12-25 at 14.20.56.png" width="230"  title="Word Guess">
